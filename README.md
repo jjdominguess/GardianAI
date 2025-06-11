@@ -92,6 +92,7 @@ Foi gerado um gráfico de linhas para visualizar a variação da Temperatura (°
 ![image](https://github.com/user-attachments/assets/058ba52e-52b0-4ad6-a22d-5c7bed49afa0)
 
 Link: https://colab.research.google.com/drive/17IyiR4rtvAjrFtwomTX8NzhjeQLSC6kw?usp=sharing
+
 Conclusão da Análise: A simulação, mesmo que simples, demonstra o poder do monitoramento contínuo. A capacidade de visualizar dados em tempo real permite a transição de uma manutenção reativa (consertar após a quebra) para uma manutenção preditiva, onde é possível agir antes que a falha ocorra, com base nas tendências observadas.
 
 # Explicações sobre o Funcionamento do Sistema
