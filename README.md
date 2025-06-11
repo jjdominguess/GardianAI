@@ -15,3 +15,5 @@ O sensor escolhido para esta simulação foi o DHT22 (ou seu similar DHT11). A e
 Relevância Industrial: O controle de temperatura e umidade é crítico em diversos contextos industriais. O superaquecimento de motores, painéis elétricos ou servidores pode ser um indicador precoce de falha. Da mesma forma, a umidade elevada pode causar corrosão e danificar componentes eletrônicos sensíveis.
 Simplicidade de Integração: O sensor é fácil de programar e integrar com o ESP32, possuindo bibliotecas amplamente disponíveis e documentadas, o que facilita o desenvolvimento.
 Simulação de Dados Realistas: Monitorar a temperatura e a umidade permite simular um cenário prático e gerar dados que variam ao longo do tempo, tornando a análise exploratória mais rica e representativa de um caso de uso real. Através deste sensor, é possível, por exemplo, simular o aquecimento de uma máquina durante seu ciclo de operação.
+
+![image](https://github.com/user-attachments/assets/5ec60588-c90e-460a-87be-1c46f369342b)
