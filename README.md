@@ -1,4 +1,6 @@
 # GardianAI
+
+Grupo: João José Domingues Silva, Laís Kondo Claus, Lucas Alves Ladeira, Murilo Santana e Willian Augusto Ferreira.
 # Introdução ao Projeto
 Este projeto foi desenvolvido como parte do desafio proposto pela Hermes Reply, focado na aplicação de soluções digitais para a Indústria 4.0. O objetivo principal é simular um sistema de monitoramento inteligente de equipamentos, replicando o processo de coleta e análise de dados em um ambiente industrial.
 No contexto da Indústria 4.0, a capacidade de monitorar variáveis ambientais como temperatura e umidade em tempo real é fundamental. Variações nesses parâmetros podem indicar desde a degradação da performance de um maquinário até um risco iminente de falha, que pode levar a paradas não programadas e custos elevados de manutenção.
