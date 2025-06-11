@@ -75,6 +75,7 @@ void loop() {
   // já que o DHT22 tem uma taxa de amostragem de aproximadamente 0.5Hz (uma leitura a cada 2 segundos).
   delay(2000); 
 }
+
 Link para acesso ao Wokwik do grupo: https://wokwi.com/projects/433502439922852865
 
 # Comportamento da Simulação (Monitor Serial)
